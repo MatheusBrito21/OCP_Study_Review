@@ -3,7 +3,7 @@ package cap5;
 public class SBuilder {
 	public static void main(String[] args) {
 		
-		StringBuilder sb = new StringBuilder("Hello");
+		StringBuilder sb = new StringBuilder("Hello ");
 		sb.append(" World");
 		sb.insert(sb.length(), "!!!");
 		sb.replace(5, 6, ",");
