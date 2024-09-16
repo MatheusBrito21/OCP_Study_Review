@@ -1,3 +1,4 @@
+package cap1;
 import java.util.Random;
 
 public class ImportExample {
